@@ -1,0 +1,16 @@
+ <html>
+<head><title>Pagina principal</title>
+</head>
+<body bgcolor="Green">
+<Font color="White" Size="14">
+<H1>Enlaces</H1><br>
+Esta pagina muestra informacion de mi<br>
+Persona, tambien es el proyecto final de<br>
+Instalacion de software. <br>
+<a href="info.html">Informacion personal</a><br>
+<a href="Pasatiempos.html">Pasatiempos</a><br>
+<a href="LibrosFa.html">Libros favoritos</a><br>
+<a href="Canciones.html">Canciones favoritas</a><br>
+</Font>
+</booly ></html>
+
